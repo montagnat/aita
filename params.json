@@ -1,6 +1,6 @@
 {
   "name": "Aita",
   "tagline": "AITA is a python toolbox build to treat data measured using the aita",
-  "body": ".\r\n",
+  "body": "# What is AITA toolbox ?\r\n\r\nAITA toolbox is a python tool to treat data from the Automatic Ice Texture Analyser which measure the the c-axis orientation of ice by optical technique. It can easily be adapted to over optical measurement of c-axis tools.\r\n\r\n# Can I use AITA toolbox ?\r\nOf course, but you have to be aware that this tools are not made by a professional. So be careful and critic about this work. May-be the easiest way to start is to contact me.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
